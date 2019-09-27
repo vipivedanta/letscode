@@ -1,0 +1,11 @@
+.footer-link{
+	position: fixed;
+	bottom: 0px;
+}
+.footer-link div{
+	display: inline-block;
+	text-align: center;
+	background-color: #ccc;
+	color: #000;
+	padding: 10px;
+}
